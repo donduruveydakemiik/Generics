@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\CSharpUygulamalar\Generics\bin\Debug\Generics.exe.config
+C:\Users\user\source\repos\CSharpUygulamalar\Generics\bin\Debug\Generics.exe
+C:\Users\user\source\repos\CSharpUygulamalar\Generics\bin\Debug\Generics.pdb
+C:\Users\user\source\repos\CSharpUygulamalar\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharpUygulamalar\Generics\obj\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\CSharpUygulamalar\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharpUygulamalar\Generics\obj\Debug\Generics.exe
+C:\Users\user\source\repos\CSharpUygulamalar\Generics\obj\Debug\Generics.pdb

@@ -1,0 +1,7 @@
+﻿namespace Generics
+{
+    interface IEntity
+    {
+
+    }
+}
